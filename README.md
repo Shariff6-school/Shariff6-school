@@ -5,7 +5,8 @@
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TShariff.TShariff)](https://github.com/TShariff) [![GitHub followers](https://img.shields.io/github/followers/TShariff.svg?style=social&label=Follow)](https://github.com/TShariff?tab=followers)
-I'm Tamjeed Shariff! 
+
+<i>I'm Tamjeed Shariff! </i>
 - <i>Currently:</i> BSC Student at York University studying Computer Science
 
 ```javascript
