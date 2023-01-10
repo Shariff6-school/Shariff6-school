@@ -11,7 +11,7 @@ const aboutMe = {
   pronouns: ["he" | "him"],
   languages: ["Javascript", "Python", "Java"],
   Frameworks: ["React", "JUnit"],
-  libraries: ["Discord.py", "NumPy","material-ui", "Bootstrap" "Chakra-ui" ]
+  libraries: ["Discord.py", "NumPy","material-ui", "bootstrap" "chakra-ui" ]
   }
   
 ```
