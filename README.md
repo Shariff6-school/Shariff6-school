@@ -1,7 +1,4 @@
 ![Tamjeed Shariff Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
-
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TShariff.TShariff)](https://github.com/TShariff) [![GitHub followers](https://img.shields.io/github/followers/TShariff.svg?style=social&label=Follow)](https://github.com/TShariff?tab=followers)
