@@ -28,11 +28,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    <a href="https://github.com/TShariff/TamjeedShariff.tech">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShariff&repo=TamjeedShariff.tech" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -50,5 +47,4 @@ I'm a Computer Science Student living in Toronto, CA. I love to cook, play sport
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:t.tamjeed.shariff@gmail.com">![t.tamjeed.shariff@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/tamjeed-shariff/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/tamjeed.s/?hl=en">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="mailto:t.tamjeed.shariff@gmail.com">![t.tamjeed.shariff@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/tamjeed-shariff/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/tamjeed.s/?hl=en">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
