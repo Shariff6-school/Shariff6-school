@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
   pronouns: ["he" | "him"],
-  languages: ["Javascript", "Python", "Java"],
+  languages: ["Javascript", "Python", "Java","HTML","CSS"],
   Frameworks: ["React", "JUnit"],
   libraries: ["Discord.py", "NumPy","material-ui", "bootstrap" "chakra-ui" ]
   }
