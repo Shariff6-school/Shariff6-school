@@ -1,6 +1,8 @@
 ![Tamjeed Shariff Banner Image](./banner.png)
 <h2>Hey! 👋</h2>
 
+
+
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TShariff.TShariff)](https://github.com/TShariff) [![GitHub followers](https://img.shields.io/github/followers/TShariff.svg?style=social&label=Follow)](https://github.com/TShariff?tab=followers)
 
 <i>I'm Tamjeed Shariff! </i>
@@ -33,8 +35,9 @@ __Check out my GitHub repository:__
 </div>
 
 <h2>👀 Stats</h2>
+<a href="http://www.github.com/arifszn"><img src="https://github-readme-stats.vercel.app/api?username=arifszn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TShariff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=TShariff&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> About Tamjeed⚡:</h2>
 
