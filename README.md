@@ -9,9 +9,9 @@
 ```javascript
 const aboutMe = {
   pronouns: ["he" | "him"],
-  languages: ["Javascript", "Python", "Java","HTML","CSS"],
+  languages: ["Javascript", "Python", "Java","HTML","CSS","C"],
   Frameworks: ["React", "JUnit"],
-  libraries: ["Discord.py", "NumPy","material-ui", "bootstrap" "chakra-ui" ]
+  libraries: ["Discord.py","material-ui", "bootstrap" "chakra-ui" ]
   }
   
 ```
@@ -19,7 +19,7 @@ const aboutMe = {
 <h2>💻 I'm Currently workng on</h2>
 
 - Full Stack Programing and Web Development
-- Software Engineering and Computer Science
+- Computer Science, Web-Development and Software Engineering
 
 
 __Check out my GitHub repository:__
