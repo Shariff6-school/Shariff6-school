@@ -36,7 +36,7 @@ __Check out my GitHub repository:__
 
 <h2>👀 Stats</h2>
 <p align="center">
-<a href="http://www.github.com/TSHARIFF"><img src="https://github-readme-stats.vercel.app/api?username=TSHARIFF&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true"
+<a href="http://www.github.com/TSHARIFF"><img src="https://github-readme-stats.vercel.app/api?username=TSHARIFF&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical"
 alt="Tamjeed's GitHub stats" /></a>
 <p>
 
