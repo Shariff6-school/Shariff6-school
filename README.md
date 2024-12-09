@@ -29,7 +29,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/TShariff/TamjeedShariff.tech">
-      <img src="https://github.com/TShariff/TShariff/blob/main/gith.png?raw=true" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShariff&repo=TamjeedShariff.tech" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -37,7 +37,7 @@ __Check out my GitHub repository:__
 <h2>👀 Stats</h2>
 <p align="center">
 <a href="http://www.github.com/TSHARIFF">
-  <img src="https://github.com/TShariff/TShariff/blob/main/Screenshot%20(3).png?raw=true" 
+  <img src="https://github.com/TShariff/TShariff/blob/main/gith.png?raw=true" 
   alt="Tamjeed's Updated GitHub stats" />
 </a>
 </p>
