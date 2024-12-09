@@ -29,7 +29,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/TShariff/TamjeedShariff.tech">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShariff&repo=TamjeedShariff.tech" alt="GitHub Stats" />
+      <img src="https://github.com/TShariff/TShariff/blob/main/gith.png?raw=true" />
     </a>
   </p>
 </div>
