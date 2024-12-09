@@ -37,7 +37,7 @@ __Check out my GitHub repository:__
 <h2>👀 Stats</h2>
 <p align="center">
 <a href="http://www.github.com/TSHARIFF">
-  <img src="[https://github.com/username/repository-name/raw/main/Screenshot%20(2).png](https://github.com/TShariff/TShariff/blob/main/Screenshot%20(3).png?raw=true)" 
+  <img src="https://github.com/TShariff/TShariff/blob/main/Screenshot%20(3).png?raw=true" 
   alt="Tamjeed's Updated GitHub stats" />
 </a>
 </p>
